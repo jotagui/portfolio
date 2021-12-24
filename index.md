@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# **João Guilherme Garcia Castro**
 
-You can use the [editor on GitHub](https://github.com/jotagui/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Desenvolvedor, Analista de Sistemas e aspirante a Game Dev. Buscando novas experiências e oportunidades
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Contato](mailto:contatoguilhermejoao@gmail.com)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Formações
 
-```markdown
-Syntax highlighted code block
+- Bacharel em Sistemas de Informação - IFMA (2016)
+- Pós-graduação EAD – Segurança da Informação - SENAC (2019)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Projetos
 
-1. Numbered
-2. List
+### Inova Maranhão - Programa Trilhas - 2021
 
-**Bold** and _Italic_ and `Code` text
+Desafio 1 e 2 -
+https://github.com/jotagui/Inova-Trilhas-Desafio1
+- Site: https://jotagui.github.io/Inova-Trilhas-Desafio1/
+- Projeto Individual
 
-[Link](url) and ![Image](src)
-```
+Desafio 3 -
+https://github.com/melpalhano/ProjetoIGD
+- Site: https://melpalhano.github.io/ProjetoIGD/
+- Padronização de esquema de cores
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Desafio 4 -
+https://github.com/NewGabrielFroes/AldeiasEmChamas
+- Site: https://newgabrielfroes.github.io/AldeiasEmChamas/
+- Criação e Organização de seções do site
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jotagui/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Outras Informações
 
-### Support or Contact
+- Línguas
+  - Português Brasileiro - Nativo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - Inglês - Fluente
+    - Certificado de Estudos em Inglês Avançado – Quest Language Studies, Toronto, Canadá – 2016
+
+  - Francês - Intermediário
+    - Francês Completo – Wizard Idiomas – 2020
+
+- Outros Cursos
+  - Curso de Montagem e Manutenção de Computador e Notebooks – Microlins – 2016
