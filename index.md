@@ -4,6 +4,8 @@ Desenvolvedor, Analista de Sistemas e aspirante a Game Dev. Buscando novas exper
 
 [Contato](mailto:contatoguilhermejoao@gmail.com)
 
+[LinkedIn](https://www.linkedin.com/in/joao-guilherme-garcia-castro)
+
 
 ## Formações
 
